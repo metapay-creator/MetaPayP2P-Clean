@@ -8,7 +8,8 @@ For all NLnet reviewers — please use the **Metis Hyperion deployment** for tes
 It offers identical functionality to the Sepolia version but with improved performance, lower gas fees, and smoother UX.  
 
 🔗 **Live Demo (Metis Hyperion)**: [https://metapayp2p-hyperion-clean2.vercel.app/](https://metapayp2p-hyperion-clean2.vercel.app/)  
-📜 **Contract Address**: `0xAaA0548C20677e24c1c9D68b1b8fA916666Bd40C`
+📜 **Contract Address**: `0x0464aCBce1F9c1A1C2d8da2ca0fc9324d7572BCB
+
 ---
 
 ## 🌍 Project Overview
